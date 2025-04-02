@@ -22,6 +22,6 @@ git remote -v
 ## Finalizando 
 ```
 git add .
-git commit 
-git push 
+git commit -m "Configuración incial de git"
+git push origin master
 ```
